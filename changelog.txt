@@ -1,0 +1,4 @@
+Version 1.0.0
+05/04/2021 dd/mm/yyyy
+	Changes:
+	Initial Release
